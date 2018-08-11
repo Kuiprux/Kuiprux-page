@@ -1,0 +1,8 @@
+.game-img {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 400px;
+  left: 160px;
+  transform: rotate(30deg);
+}
